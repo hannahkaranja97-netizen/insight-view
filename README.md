@@ -1,1 +1,1 @@
-# insight-view
+# Insight-Viewer
